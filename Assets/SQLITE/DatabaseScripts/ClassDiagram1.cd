@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Registration">
+    <Position X="6.5" Y="2" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABACAQAAAEAAAAAAAAIABAAAAgAACIAAEAAAA=</HashCode>
+      <FileName>Assets\SQLITE\DatabaseScripts\Registration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="mainMenu">
+    <Position X="9.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAACAAAAAAAAAAAAAAAEAAAAAAAAiAEAAEAEA=</HashCode>
+      <FileName>Assets\SQLITE\DatabaseScripts\mainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login">
+    <Position X="12.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAgAECEQAAAEQAAAAAAAAAAAAAAgAACMAAAAAgA=</HashCode>
+      <FileName>Assets\SQLITE\DatabaseScripts\Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainMenu">
+    <Position X="14" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAABAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ИГААААААА\коды\MainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OptionMenu">
+    <Position X="9.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAACABAAAAAQAAAA=</HashCode>
+      <FileName>Assets\ИГААААААА\коды\OptionMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
